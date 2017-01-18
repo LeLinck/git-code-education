@@ -1,1 +1,3 @@
 Meu texto 1 do arquivo teste1
+
+Alterar arquivo para receber o merge
